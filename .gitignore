@@ -1,12 +1,4 @@
 .vscode
-task2/bin/
-task2/obj/
 *.csproj
-task4/bin/
-task4/obj/
-task6/bin/
-task6/obj/
-task8/bin/
-task8/obj/
-task7HARD/bin/
-task7HARD/obj/
+task_option_1/bin/
+task_option_1/obj/
