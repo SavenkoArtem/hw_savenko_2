@@ -2,6 +2,8 @@
 *.csproj
 task_option_1/bin/
 task_option_1/obj/
+task_option_2/bin/
+task_option_2/obj/
 task10/bin/
 task10/obj/
 task13/bin/
